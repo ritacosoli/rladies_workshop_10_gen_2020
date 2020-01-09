@@ -1,4 +1,4 @@
-DATIpartecipanti <- read.csv("C:/Users/Martina/Desktop/DATIpartecipanti.csv", sep=";")
+DATIpartecipanti <- read.csv("DATIpartecipanti.csv", sep=";")
 View(DATIpartecipanti)
 
 data <- DATIpartecipanti
