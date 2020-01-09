@@ -1,4 +1,5 @@
 DATIpartecipanti <- read.csv("DATIpartecipanti.csv", sep=";")
+
 View(DATIpartecipanti)
 
 data <- DATIpartecipanti
